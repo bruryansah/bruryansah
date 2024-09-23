@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me bruryansah@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Pisang mempunyai biji pada buahnya
-
+- ⚡ Fun fact: Air panas membeku lebih cepat daripada air dingin.
+-              Fenomena ini dikenal sebagai efek Mpemba
 <!---
 bruryansah/bruryansah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
