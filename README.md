@@ -3,7 +3,7 @@
 Junior Web Developer | Fullstack (basic) | Student at SMK Tamansiswa 2 Jakarta (RPL)
 
 💻 Tech Stack: Laravel, PHP, HTML, CSS, JS, MySQL, Figma  
-🔧 Projects: CRUD apps, landing pages, school & freelance simulations  
+🔧 Projects: ???  
 🎓 PKL @ PT Inovindo Digital Media | OSIS Dokumentasi  
 🎯 Goal: Growing as a full-stack dev & contributing to open-source
 
