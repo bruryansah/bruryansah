@@ -12,6 +12,6 @@ Junior Web Developer | Fullstack (basic) | Student at SMK Tamansiswa 2 Jakarta (
 
 
 📫 bruryansah@gmail.com  
-📷 IG: [@bruryansah_asli](https://instagram.com/bruryansah_asli)
+📷 IG: [@bruryansah_aslii](https://instagram.com/bruryansah_aslii)
 
 _"Meum fatum scribo sanguine"_
