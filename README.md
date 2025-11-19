@@ -17,7 +17,7 @@
 Halo! Saya seorang junior web developer yang passionate dalam membangun aplikasi web modern. Saat ini sedang mendalami fullstack development dan terus belajar teknologi baru setiap hari.
 
 - 🔭 Sedang mengembangkan skill di **Fullstack Web Development**
-- 🌱 Fokus belajar **Laravel, PHP & JavaScript Ecosystem**
+- 🌱 Fokus belajar **Laravel, PHP & ???**
 - 💼 Pengalaman PKL di **PT Inovindo Digital Media**
 - 🎯 Target: Menjadi **Full-Stack Developer** & **Software Engineer** yang unmatched
 - ⚡ Fun fact: Saya percaya kopi adalah bahan bakar terbaik untuk coding
@@ -28,12 +28,15 @@ Halo! Saya seorang junior web developer yang passionate dalam membangun aplikasi
 
 ### 💻 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### 🔧 Frameworks & Tools
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -58,13 +61,11 @@ Halo! Saya seorang junior web developer yang passionate dalam membangun aplikasi
 > *Coming Soon!* 🚧  
 > Sedang mengerjakan beberapa project menarik. Stay tuned!
 
-<!-- Template untuk nanti:
-### 🌟 [Project Name](link)
-**Tech Stack:** Laravel, MySQL, JavaScript  
-Brief description of your project and what problem it solves.
+### 🌟 [FoodScan AI (AI Vision + Gizi)](link)
+**Tech Stack:** Laravel 12, PHP >= 8.2, MySQL, Tailwind CSS, OpenAI Vision, Nutrition API.  
+Aplikasi web yang bisa mengenali makanan dari foto lalu memberikan informasi kalori, nutrisi, dan saran kesehatan.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruryansah&repo=repo-name&theme=tokyonight)](https://github.com/bruryansah/repo-name)
--->
 
 ---
 
