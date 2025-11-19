@@ -28,7 +28,6 @@ Halo! Saya seorang junior web developer yang passionate dalam membangun aplikasi
 
 ### 💻 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -73,7 +72,7 @@ Brief description of your project and what problem it solves.
 
 **🏢 Praktik Kerja Lapangan (PKL)**  
 📍 PT Inovindo Digital Media  
-📅 [Bulan/Tahun - Bulan/Tahun]
+📅 [Juli/2025 - Desember/2025]
 
 > Pengalaman berharga dalam dunia industri digital yang membantu saya mengasah kemampuan teknis dan profesional.
 
@@ -103,6 +102,6 @@ Brief description of your project and what problem it solves.
   
   ![Profile Views](https://komarev.com/ghpvc/?username=bruryansah&color=blueviolet&style=for-the-badge)
   
-  ⭐️ From [bruryansah](https://github.com/bruryansah) with 💙
+  ⭐️ From [bruryansah](https://github.com/bruryansah) with �
   
 </div>
